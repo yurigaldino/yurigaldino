@@ -33,7 +33,7 @@
         src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3"
         width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
+      <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg"
         alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img
         src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
