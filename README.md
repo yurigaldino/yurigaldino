@@ -3,7 +3,7 @@
 
 <br>
 
-- 💼 I’m currently working at [Bureau Works](https://www.bureauworks.com/)
+- 💼 I’m currently working at [Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)](http://www.lamce.coppe.ufrj.br/)
 
 - 📫 How to reach me **yurifgdesouza@gmail.com**
 
