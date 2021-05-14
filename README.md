@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri</h1>
 <h3 align="center">Development, engineering and beer. 🍻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yurigaldino" alt="yurigaldino" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yurigaldino&label=Profile%20views&color=0e75b6&style=flat" alt="yurigaldino" /> </p>
 
 - 🔭 I’m currently working at [Bureau Works](https://www.bureauworks.com/)
 
@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yurigaldino/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yurigaldino/?locale=en_us" height="30" width="40" /></a>
-<a href="/https://linktr.ee/yurifgs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://linktr.ee/yurifgs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yurigaldino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="yurigaldino" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
