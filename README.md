@@ -13,6 +13,6 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
 
-<p align="center"><img src="https://64.media.tumblr.com/f5436f265630043b4163b3b796436229/tumblr_nerv5zwzCr1sgl0ajo1_500.gifv" alt="this slowpoke moves"  width="250" /></p>
+<p align="center"><img src="https://media3.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif?cid=ecf05e474tnmx937ijlyhxd41dii3i16lid3n37sl9hmtfj2&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="250" /></p>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=yurigaldino&label=Profile%20views&color=0e75b6&style=flat" alt="yurigaldino" /> </p>
