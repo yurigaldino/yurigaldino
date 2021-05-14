@@ -3,7 +3,7 @@
 
 <br>
 
-- 💼 I’m currently working at [Bureau Works](https://www.bureauworks.com/)
+#- 💼 I’m currently working at [Bureau Works](https://www.bureauworks.com/)
 
 - 📫 How to reach me **yurifgdesouza@gmail.com**
 
