@@ -30,7 +30,7 @@
         src="https://cdn.worldvectorlogo.com/logos/html5.svg"
         alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
-        src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3"
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3"
         width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg"
