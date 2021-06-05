@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yuri.</h1>
 <h3 align="center">Development, engineering and beer. 🍻</h3>
 <br>
-- 💼 I’m currently working at [Bureau Works](https://www.bureauworks.com/) and [Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)](http://www.lamce.coppe.ufrj.br/)
-- 📫 Howw to reach me **yurifgdesouza@gmail.com**
+<ul>
+<li>
+<p><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> I’m currently working at <a href="https://www.bureauworks.com/" rel="nofollow">Bureau Works</a> and <a href="http://www.lamce.coppe.ufrj.br/" rel="nofollow">Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)</a></p>
+</li>
+<li>
+<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:yurifgdesouza@gmail.com">yurifgdesouza@gmail.com</a></strong></p>
+</li>
+</ul>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
