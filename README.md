@@ -1,3 +1,8 @@
+<style>
+  h1 {color:red;}
+  p {color:blue;}
+</style>
+
 <h1 align="center">Hi 👋, I'm Yuri.</h1>
 <h3 align="center">Development, engineering and beer. 🍻</h3>
 <br>
