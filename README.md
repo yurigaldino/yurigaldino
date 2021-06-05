@@ -2,7 +2,7 @@
 <h3 align="center">Development, engineering and beer. 🍻</h3>
 <br>
 - 💼 I’m currently working at [Bureau Works](https://www.bureauworks.com/) and [Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)](http://www.lamce.coppe.ufrj.br/)
-- 📫 How to reach me **yurifgdesouza@gmail.com**
+- 📫 Howw to reach me **yurifgdesouza@gmail.com**
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
