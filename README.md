@@ -62,9 +62,7 @@
         alt="figma" width="40" height="40" /> </a>
   </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
   <div>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
     <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
