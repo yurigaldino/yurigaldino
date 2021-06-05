@@ -1,8 +1,3 @@
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
-
 <h1 align="center">Hi 👋, I'm Yuri.</h1>
 <h3 align="center">Development, engineering and beer. 🍻</h3>
 <br>
@@ -74,7 +69,7 @@
   </p>
 
 
-  <div id="stats" display:flex flex-direction:row flex-wrap:wrap justify-content:space-evenly align-items:center>
+  <div id="stats" style="color:red">
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
     <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
   </div>
