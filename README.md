@@ -67,10 +67,10 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
         alt="figma" width="40" height="40" /> </a>
   </p>
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
+  <div>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
+    <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
+  </div>
 
 <p align="center"><img src="https://media4.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif?cid=790b761138ae36f01f1360a244e0cde616ec893c708ba80b&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="250" /></p>
 
