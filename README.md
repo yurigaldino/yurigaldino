@@ -69,7 +69,7 @@
   </p>
 
 
-  <div id="stats" display="flex" flex-wrap="wrap" justify-content="space-evenly" align-items="center">
+  <div class="stats" display="flex" flex-wrap="wrap" justify-content="space-evenly" align-items="center">
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
     <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
   </div>
