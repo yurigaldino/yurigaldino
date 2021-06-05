@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuri.</h1>
 <h3 align="center">Development, engineering and beer. 🍻</h3>
-
 <br>
-
 - 💼 I’m currently working at [Bureau Works](https://www.bureauworks.com/) and [Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)](http://www.lamce.coppe.ufrj.br/)
-
 - 📫 How to reach me **yurifgdesouza@gmail.com**
-
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <br>
-
 <p align="center">
     <a href="https://www.java.com" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -29,15 +23,9 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img
         src="https://cdn.worldvectorlogo.com/logos/html5.svg"
         alt="html5" width="40" height="40" /> </a>
-    
-<!--     <a href="https://pt.wikipedia.org/wiki/CSS3/" target="_blank"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
-        alt="css3" width="40" height="40" /> </a>
-    
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3"
-        width="40" height="40" /> </a> -->
-    
+        width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg"
         alt="bootstrap" width="40" height="40" /> </a>
@@ -72,11 +60,15 @@
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
         alt="figma" width="40" height="40" /> </a>
-<!--   </p> -->
-  
+  </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
+  <div>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
     <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
-  
+  </div>
 
 <p align="center"><img src="https://media4.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif?cid=790b761138ae36f01f1360a244e0cde616ec893c708ba80b&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="250" /></p>
 
