@@ -26,10 +26,10 @@
     <a href="https://vuejs.org/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
         alt="vuejs" width="40" height="40" /> </a>
-    <a href="https://pt.wikipedia.org/wiki/html5/" target="_blank"> <img
+    <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img
         src="https://cdn.worldvectorlogo.com/logos/html5.svg"
         alt="html5" width="40" height="40" /> </a>
-    <a href="https://pt.wikipedia.org/wiki/CSS3/" target="_blank"> <img
+    <a href="https://pt.wikipedia.org/wiki/CSS3" target="_blank"> <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3"
         width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank">
