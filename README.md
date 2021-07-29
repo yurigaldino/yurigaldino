@@ -20,6 +20,10 @@
         src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
     <a href="https://mariadb.org/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" /> </a>
+    </a> <a href="https://aws.amazon.com/pt/s3/" target="_blank"> <img
+        src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="aws s3" width="40" height="40" />
+    </a> <a href="https://aws.amazon.com/pt/rds/" target="_blank"> <img
+        src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" alt="aws rds" width="40" height="40" />
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" /> </a>
