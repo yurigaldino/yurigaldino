@@ -31,7 +31,7 @@
         src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
         alt="vuejs" width="40" height="40" /> </a>
     <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img
-        src="https://cdn.worldvectorlogo.com/logos/html5.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"
         alt="html5" width="40" height="40" /> </a>
     <a href="https://pt.wikipedia.org/wiki/CSS3" target="_blank"> <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3"
@@ -72,11 +72,12 @@
         alt="figma" width="40" height="40" /> </a>
   </p>
 
-
-  <div class="stats" display="flex" flex-wrap="wrap" justify-content="space-evenly" align-items="center">
+<!--
+ <div class="stats" display="flex" flex-wrap="wrap" justify-content="space-evenly" align-items="center">
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurigaldino&show_icons=true&locale=en&layout=compact" alt="yurigaldino" /></p>
     <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yurigaldino&show_icons=true&locale=en" alt="yurigaldino" /></p>
   </div>
+-->
 
 <p align="center"><img src="https://media4.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif?cid=790b761138ae36f01f1360a244e0cde616ec893c708ba80b&rid=giphy.gif&ct=g" alt="this slowpoke moves"  width="250" /></p>
 
